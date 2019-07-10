@@ -1,3 +1,3 @@
 #TravelDeals App
 
-![alt text](https://www.uplabs.com/posts/travel-deals-figma-prototype)
+![](https://www.uplabs.com/posts/travel-deals-figma-prototype)
