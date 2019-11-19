@@ -1,5 +1,4 @@
-#My simple implementation for the uplabs design
+#My First implementation for a design using flutter
 https://www.uplabs.com/posts/travel-deals-figma-prototype 
-using Flutter
 
 ![](images/preview.png)
